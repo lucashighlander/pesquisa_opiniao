@@ -7,7 +7,7 @@ ruim = 0
 # Repete a pesquisa para cada entrevistado
 # Para os testes da atividade, utilize range(10).
 # Na versão final, utilize range(50).
-for i in range(10):
+for i in range(50):
 
    
     # Exibe o número do entrevistado atual
