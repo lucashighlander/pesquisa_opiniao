@@ -1,7 +1,7 @@
 # 📊 Pesquisa de Opinião - TudoWeb
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repositório-181717?logo=github&logoColor=orange)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 ![Atividade](https://img.shields.io/badge/Atividade-ETEC-blueviolet)
 
